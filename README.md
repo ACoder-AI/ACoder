@@ -42,19 +42,19 @@ ACoder Agent distinguishes itself through:
 
 ## 👥 Core Team
 
-*   Tengjixiang Teng
-    
-*   Xinhe Zhang
-    
-*   Jiawei He
-    
-*   Changkong Zhou
-    
-*   Zhidong Qiao
-    
-*   Xi Zhang
-    
+*   [Tengjixiang Teng](https://lancertz.github.io/)
 
+*   [Xinhe Zhang](https://squirtle12.github.io/)
+
+*   [Jiawei He](https://ehhhhjw.github.io/)
+
+*   [Changkong Zhou](https://www.linkedin.com/in/changkong/)
+
+*   [Zhidong Qiao](https://qiaozhidong.github.io/)
+
+*   [Xi Zhang](https://zhangxi999.github.io)
+
+    
 ## 📬 Contact
 
 *   Discussions: [https://github.com/ACoder-AI/ACoder/discussions](https://github.com/ACoder-AI/ACoder/discussions)
