@@ -89,4 +89,4 @@ We identify some directions for future improvement:
 
 This work was done by ACoder Team.
 
-Contributors：Tengjixiang Teng, Xinhe Zhang, Jiawei He, Changkong Zhou, Zhidong Qiao, Xi Zhang, Tao Zou
+Contributors：[Tengjixiang Teng](https://lancertz.github.io/), [Xinhe Zhang](https://squirtle12.github.io/), [Jiawei He](https://ehhhhjw.github.io/), [Changkong Zhou](https://www.linkedin.com/in/changkong/), [Zhidong Qiao](https://qiaozhidong.github.io/),[Xi Zhang](https://zhangxi999.github.io), Tao Zou
