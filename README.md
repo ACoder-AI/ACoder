@@ -42,6 +42,8 @@ ACoder Agent distinguishes itself through:
 
 ## 👥 Core Team
 
+*   Xikai Yang
+
 *   [Tengjixiang Teng](https://lancertz.github.io/)
 
 *   [Xinhe Zhang](https://squirtle12.github.io/)
